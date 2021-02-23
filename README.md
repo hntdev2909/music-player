@@ -6,4 +6,4 @@
 
 - [Link to review](https://music-player-chill.netlify.app/)
 
-With the guidance of **Son Dang F8**
+With the guidance of **[Son Dang F8](https://fullstack.edu.vn/courses)**
