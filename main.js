@@ -78,13 +78,6 @@ const app = {
 				'./assets/music/ĐỘ ĐÚNG ĐỜI - THIỆN HƯNG ft. ĐỘ MIXI _ LYRIC AUDIO.mp3',
 			image: './assets/img/dodungdoi.jpg',
 		},
-		// {
-		// 	name: 'Anh Không Thề Gì Đâu Anh Làm',
-		// 	singer: 'Phúc Du',
-		// 	path:
-		// 		'./assets/music/ANH KHÔNG THỀ GÌ ĐÂU ANH LÀM. #AKTGĐ - PHÚC DU [OFFICIAL MUSIC VIDEO].mp3',
-		// 	image: './assets/img/anhkhongthe.webp',
-		// },
 	],
 	setConfig: function (key, value) {
 		this.config[key] = value;
